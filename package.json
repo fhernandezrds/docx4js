@@ -31,6 +31,7 @@
   "dependencies": {
     "cfb": "^0.12.1",
     "cheerio": "^0.22.0",
+    "fs-extra": "^7.0.0",
     "htmlparser2": "^3.9.2",
     "jszip": "^2.6.0"
   },
